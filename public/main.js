@@ -3,7 +3,7 @@ let gamesPurchase = [
     {
         "name": "friday the 13th",
         "genre": "horror/action",
-        "img": "images/friday.png"
+        "img": "images/friday.jpg"
     },
 
     {
